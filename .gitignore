@@ -1,0 +1,32 @@
+# DaVinci Resolve and generated media
+edit/cache/
+edit/proxies/
+edit/resolve-project/*.gallery
+generation/outputs/
+generation/rejected/
+exports/
+
+# Large media files
+*.mp4
+*.mov
+*.mxf
+*.wav
+*.aiff
+*.psd
+*.blend
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# OS and editor files
+.DS_Store
+.Trash/
+.vscode/
+*.swp
+*.tmp
+
+# Secrets
+.env
+*.key
+*.pem
