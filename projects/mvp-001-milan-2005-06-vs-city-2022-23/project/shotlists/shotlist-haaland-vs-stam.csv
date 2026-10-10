@@ -1,0 +1,9 @@
+shot_id,test,duration_sec,framing,action,primary_risk,status
+HS01,Setup,3,Wide side view,Haaland and Stam position for a high ball,Player scale and spacing,planned
+HS02,Aerial duel,4,Low medium,Haaland and Stam jump and contest the ball,Hands feet and ball contact,planned
+HS03,Aerial landing,3,Medium,Haaland lands and Stam regains balance,Physical continuity,planned
+HS04,Ground duel,4,Low tracking,Stam steps in while Haaland shields the ball,Leg interaction and collision,planned
+HS05,Dribble,4,Low front three-quarter,Haaland feints and changes direction past Stam,Ball staying attached to feet,planned
+HS06,Shot setup,3,Medium tracking,Haaland creates half a meter of space,Body orientation and timing,planned
+HS07,Shot,3,Low angle,Haaland strikes the ball,Foot-ball contact and trajectory,planned
+HS08,Reaction,2,Tight close-up,Stam turns and Haaland reacts,Face consistency,planned

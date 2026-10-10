@@ -1,0 +1,9 @@
+asset_id,role,canonical_path,used_in_shots,rights_status,notes
+person-haaland-2022-23,character,library/people/haaland,S05;S07;S13;S14,check,Central reusable reference folder
+person-stam-2005-06,character,library/people/stam,S05;S07;S13,check,Central reusable reference folder
+person-maldini-2005-06,character,library/people/maldini,S06;S13,check,Central reusable reference folder
+person-nesta-2005-06,character,library/people/nesta,S06;S13,check,Central reusable reference folder
+person-shevchenko-2005-06,character,library/people/shevchenko,S08;S09,check,Central reusable reference folder
+person-pirlo-2005-06,character,library/people/pirlo,S08;S12,check,Central reusable reference folder
+team-milan-2005-06,team,library/teams/milan-2005-06,S02;S03;S04,check,Central reusable reference folder
+team-city-2022-23,team,library/teams/city-2022-23,S02;S03;S04,check,Central reusable reference folder
